@@ -1,0 +1,96 @@
+const LabPackages = [
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    {
+        name: "Albumin, Serum",
+        akaList: ["Blood albumin test", "Total protein albumin test", "Albumin level test"],
+        price: "699",
+        oldPrice: "499",
+        discount: "30",
+    },
+    
+];
+
+export default LabPackages;
